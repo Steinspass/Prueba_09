@@ -1,4 +1,4 @@
-package com.example.ndpsh.prueba_09;
+package com.example.ndpsh.prueba_09.Activities;
 
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
@@ -6,6 +6,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
+
+import com.example.ndpsh.prueba_09.R;
 
 public class MainActivity extends AppCompatActivity {
 
